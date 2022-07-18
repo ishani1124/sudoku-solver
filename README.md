@@ -1,1 +1,2 @@
-# Sudoku Solver - https://ishani1124.github.io/sudoku-solver/
+# Sudoku Solver 
+# https://ishani1124.github.io/sudoku-solver/
